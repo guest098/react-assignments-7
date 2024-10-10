@@ -1,0 +1,17 @@
+body{
+  margin-left:150px;
+  margin-right:150px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:url('https://img.freepik.com/free-vector/call-doctor-concept-doctors-answer-patient-questions-phone_1150-50289.jpg?w=996&t=st=1726741215~exp=1726741815~hmac=df5f01825c25d15e2ab76e0203539b59a166ce3ac3abee4b2f804a63d3e8038f');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+code{
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

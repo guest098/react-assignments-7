@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background:url('https://img.freepik.com/premium-photo/landscape-city-artwork-ancient-cultures-architecture-religion-famous-places-spatial-concept-art_741910-3656.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.App{
+  text-align:center;
+  padding:20px;
+}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(4, 100px);
+  grid-gap:10px;
+  justify-content:center;
+  width:50%;
+  margin-top:20px;
+  background:url('https://wallpaperaccess.com/full/3826411.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding:5%;
+  margin-left:20%;
+}

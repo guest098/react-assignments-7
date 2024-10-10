@@ -1,0 +1,141 @@
+.App{
+  text-align:center;
+  margin:20px;
+}
+form{
+    border:1px solid #ced4da;
+    border-radius:5px;
+    margin:30px;
+}
+hr{
+  width: 100%;
+  margin:0;
+}
+h2{
+  background:linear-gradient(to right,#0072ff,#8811c5);
+  padding:3%;
+  margin:0;
+  margin-bottom:10px;
+  color:white;
+  font-size:16px;
+  text-align:center;
+  font-weight:bold;
+}
+.form-row{
+  display:flex;
+  padding:1%;
+  gap:10px;
+  margin-bottom:0%;
+}
+input,select{
+  padding:12px;
+  border:1px solid #ced4da;
+  border-radius:1.5rem;
+  flex:1;
+  font-size:16px;
+}
+
+button{
+  border:none;
+  border-radius:1.5rem;
+  padding:1%;
+  width:20%;
+  cursor:pointer;
+  font-size:16px;
+  background:#0062cc;
+  color:#fff;
+  margin:20px;
+}
+table{
+  border:1px solid #ced4da;
+  border-radius:5px;
+  margin:30px;
+  width:95%;
+  border-collapse:collapse;
+  margin-top:50px;
+  color:black;
+  font-size:16px;
+  background:#ccc;
+}
+
+table,th,td{
+  border:1px solid #ddd;
+  padding:32px;
+}
+th{
+  background-color: #7f25ce;
+  color:white;
+}
+.status-consult{
+  background-color: #28a745;
+  color: white;
+  padding:10px 15px;
+  font-weight:500px;
+  border-radius: 5px;
+  text-align:center;
+}
+.status-revisit{
+  background-color:#007bff;
+  color:white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-align:center;
+}
+.actions{
+  position: relative;
+}
+a{
+  text-decoration:none;
+  text-align:left;
+}
+button.actions{
+  background:none;
+  border:none;
+  font-size:24px;
+  cursor:pointer;
+}
+.action-menu{
+  width:100px;
+  height:10vh;
+  margin-left:-21%;
+}
+.btn-1{
+  color:blue;
+  background:none;
+  font-size:30px;
+}
+.action-menu button{
+  display:block;
+  padding:10px;
+  width:100%;
+  background-color:rgb(255, 64, 0);
+  border:none;
+  cursor:pointer;
+  text-align:center;
+}
+.action-menu button:hover{
+  background:linear-gradient(to right,#0072ff,#8811c5);
+  text-align:center;
+}
+.user-info{
+  display:flex;
+  align-items:center;
+}
+.user-info__img{
+  margin-right:10px;
+}
+.user-info__img img{
+  width:65px;
+  height:65px;
+  border-radius:50%; 
+  object-fit:cover;
+  border:2px solid #ddd;
+  box-shadow:0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.user-info__details{
+  display:flex;
+  flex-direction:column;
+}
+.user-info__details span{
+  font-weight:500;
+}

@@ -1,0 +1,63 @@
+.home-page{
+    text-align:center;
+    padding:20px;
+    background:url('https://www.noypigeeks.com/wp-content/uploads/2022/03/Physical-VS-Digital-Video-Games-NoypiGeeks-1001.jpg');
+    color:white;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height:100vh;
+}
+.score-container{
+    margin:20px 0;
+}
+h1{
+    font-size:50px;
+}
+.best-time{
+    font-size:30px;
+    font-weight:bold;
+}
+.play-button{
+    display:inline-block;
+    padding:15px 30px;
+    margin-top:20px;
+    background-color:#28a745;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-size:20px;
+    transition:background-color 0.3s ease;
+}
+.play-button:hover{
+    background-color:#218838;
+}
+.details{
+    margin-top:60px;
+}
+h2{
+    font-size:35px;
+    margin:30px;
+}
+h3{
+    font-size:35px;
+    text-align:center;
+}
+p{
+    font-size:20px;
+}
+.game-tips{
+    margin-top:10px;
+    text-align:left;
+    display:inline-block;
+}
+.game-tips ul{
+    list-style-type:none;
+    padding:0;
+}
+.game-tips li{
+    margin:20px;
+    font-size:20px;
+    color:rgb(255, 255, 255);
+    margin-left:2px;
+}
+  

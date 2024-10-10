@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "/assets/images/image1.jpg",
+      "profession": "Software Engineer",
+      "location": "New York, USA",
+      "description": "Experienced in building scalable web applications.",
+      "status": "Online",
+      "lastseen": ""
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "/assets/images/image2.jpg",
+      "profession": "Data Scientist",
+      "location": "San Francisco, USA",
+      "description": "Expert in machine learning and AI.",
+      "status": "Offline",
+      "lastseen": "2 days ago"
+    }
+  ]
+  

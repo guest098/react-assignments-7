@@ -1,0 +1,15 @@
+.game-page {
+  text-align: center;
+  padding: 20px;
+}
+h1{
+  font-size:40px;
+  color:white;
+}
+.results{
+  font-size:40px;
+  color:white;
+}
+.results p{
+  font-size:40px;
+}
